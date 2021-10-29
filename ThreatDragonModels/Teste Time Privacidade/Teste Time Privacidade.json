@@ -10,7 +10,13 @@
         "name": "Felipe"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "Modelagem 1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Yaso"
   }
 }
